@@ -4,7 +4,7 @@
 
 A wine aroma wheel for assisting wine enthusiasts in identifying scent characteristics of wine by category.
 
-<a href="http://www.vinscents.fr">Demo Here</a>
+<a href="http://vinscents.fr">Demo Here</a>
 
 ![Category Wheel Demo](/design/design.gif)
 
